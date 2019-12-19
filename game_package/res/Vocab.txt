@@ -1,0 +1,31 @@
+Nihao:Hello:Good Bye:Good Night:Thank you:Chinese
+Xie Xie:Thank you:Good Bye:Good Night:Hello:Chinese
+Zaijian:Good Bye:Hello:Good Night:Thank you:Chinese
+Yi:One:Two:Three:Four:Chinese
+Er:Two:One:Three:Four:Chinese
+San:Three:One:Two:Four:Chinese
+Si:Four:One:Two:Three:Chinese
+Ichi:One:Two:Three:Four:Japanese
+Hola:Hello:Bye:Wednesday:One:Spanish
+San:Three:Four:Five:Six:Japanese
+Go:Five:Three:One:Seven:Japanese
+Roku:Six:Five:Four:Three:Japanese
+Hai:Yes:No:Maybe:Never:Japanese
+Iie:No:Yes:Never:Maybe:Japanese
+Jisho:Dictionary:Book:TextBook:Fantasy:Japanese
+Minna:Everyone:No One:Someone:You:Japanese
+Eigo:English:French:British:Spanish:Japanese
+Inu:Dog:Cat:Bird:Lion:Japanese
+Tora:Tiger:Cat:Bird:lion:Japanese
+Douitashimashite:You're Welcome:Thank you:Okay:Science:Japanese
+Liebe:Love:Hate:Look:Listen:German
+Hund:Dog:Hand:Cat:Heart:German
+Lacheln:Smile:Frown:Cry:Laugh:German
+Aniyo:No:Yes:Hello:Goodbye:Korean
+Eung:Yes:No:Hello:Goodbye:Korean
+Bap:Rice:Water:Fire:Grass:Korean
+Mul:Water:Rice:Fire:Grass:Korean
+Keopi:Coffee:Cats:Candle:Crayons:Korean
+Juseyo:Please:Thank you:Sorry:Excuse me:Korean
+Bonjour:Hello:Goodbye:Yes:No:French
+Chat:Cat:Dog:Camera:Car:French
